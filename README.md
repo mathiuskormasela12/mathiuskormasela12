@@ -8,7 +8,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-yellow?style=flat&logo=Google-Chrome&logoColor=white&link=https://mathius-kormasela.netlify.app)](https://mathius-kormasela.netlify.app)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ridhomujizat@gmail.com)](mailto:mathiuskormasela12@gmail.com)
 
-I'am Fresh Graduate from informatic engineering. 
+I'am Full Stack Developer. 
 - 🔭 I’m currently looking for front-end or Ui/UX design experience.
 - 🌱 I’m currently learning Mobile Development (React Native)
 - :books: Focus Techs:  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="25" 
