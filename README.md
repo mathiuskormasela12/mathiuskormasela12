@@ -1,6 +1,6 @@
 ### Hi there! I'am Mathius Kormasela 👋
 
-[![Ridho's github stats](https://github-readme-stats.vercel.app/api?username=mathiuskormasela12&count_private=true)](https://github.com/mathiuskormasela12)
+[![Mathius's github stats](https://github-readme-stats.vercel.app/api?username=mathiuskormasela12&count_private=true)](https://github.com/mathiuskormasela12)
 
 <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
