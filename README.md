@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ridhomujizat@gmail.com)](mailto:mathiuskormasela12@gmail.com)
 
 I'm a Full Stack Developer. 
-- 🔭 I’m currently work as Fullstack Engineer at Embreo Pte Ltd.
+- 🔭 I’m currently work as a Middle Fullstack Developer at Vouch SG Pte Ltd.
 - 🌱 I’m currently learning Backend Technology (Express with TypeScript) & Mobile Development (React Native)
 - :books: Focus Techs:  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="25" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
