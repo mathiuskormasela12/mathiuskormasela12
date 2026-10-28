@@ -14,5 +14,5 @@ I'm a middle full-stack developer.
 - :books: Focus Techs:  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="25" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 - 💻 Mac OS and Linux User
-- 🎲 You can see my portfolio [Click Here!](https://mathiuskormasela.my.id) 
+- 🎲 You can see my portfolio [Click Here!](https://mathiuskormasela.com/) 
 Thank you for visiting my profile :v:
